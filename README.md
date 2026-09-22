@@ -1,4 +1,4 @@
-# Horix-YT Full Stack (FastAPI + React)
+# AI-Agentic-Video-Generation---YouTube-Video-Shorts-Generation (FastAPI + React)
 
 End-to-end AI assisted YouTube content generation & media management platform. Backend (FastAPI) orchestrates multi‑stage pipeline (ideation ➜ scripts ➜ images ➜ voice ➜ edit ➜ captions ➜ archive) with per‑user galleries, avatars, auth & job manifests. Frontend (React 19) delivers animated UX with authentication gate, profile management, media gallery (rename/delete with optimistic retries), thumbnail previews, and avatar upload.
 
